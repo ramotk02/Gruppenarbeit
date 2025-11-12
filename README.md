@@ -1,16 +1,14 @@
 
 
 # Onepager Website
-=======
-#  Onepager Website
+
 
 Eine moderne **One-Page-Website**, erstellt mit **HTML** und **CSS**, die Text und Bilder in einem flüssigen und ansprechenden Design präsentiert.
 
 ---
 
 ## Beschreibung
-=======
-##  Beschreibung
+
 
 Dieses Projekt ist eine Einseiten-Website (Onepager) mit mehreren Abschnitten:  
 
@@ -27,8 +25,7 @@ Das Design verwendet **Verläufe**, **weiche Schatten** und eine **Farbpalette v
 ---
 
 ## Gruppenmitglieder
-=======
-##  Gruppenmitglieder
+
 
 Dieses Projekt wurde von einem Team von **vier Personen** erstellt:  
 
@@ -39,15 +36,13 @@ Dieses Projekt wurde von einem Team von **vier Personen** erstellt:
 
 ---
 
-## Projektstruktur
-=======
+
 ##  Projektstruktur
 
-onepager/ # Root-Verzeichnis des Projekts
+onepager/                     # Root-Verzeichnis des Projekts
 │
-├── index.html # Haupt-HTML-Datei der Website
-├── styles.css # CSS-Datei für das Styling
-├── bild/ # Ordner für Bilder
-│ └── 5294e6d0-53ed-4a4a-a350-7eaeab72ac93.avif # Bilddatei verwendet auf der Seite
-│
-└── README.md # Diese Datei, Projektbeschreibung
+├── index.html                # Haupt-HTML-Datei der Website
+├── styles.css                # CSS-Datei für das Styling
+├── bild/                     # Ordner für Bilder
+│   └── 5294e6d0-53ed-4a4a-a350-7eaeab72ac93.avif  # Bilddatei verwendet auf der Seite
+└── README.md                 # Diese Datei, Projektbeschreibung
