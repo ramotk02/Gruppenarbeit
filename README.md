@@ -40,7 +40,7 @@ Dieses Projekt wurde von einem Team von **vier Personen** erstellt:
 
 ##  Projektstruktur
 
-onepager/                     # Root-Verzeichnis des Projekts 
+
 
   index.html                     # Haupt-HTML-Datei der Website 
   
