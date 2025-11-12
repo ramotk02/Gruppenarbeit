@@ -40,10 +40,10 @@ Dieses Projekt wurde von einem Team von **vier Personen** erstellt:
 
 ##  Projektstruktur
 
-onepager/                     # Root-Verzeichnis des Projekts
-│
-├── index.html                # Haupt-HTML-Datei der Website
-├── styles.css                # CSS-Datei für das Styling
-├── bild/                     # Ordner für Bilder
-│   └── 5294e6d0-53ed-4a4a-a350-7eaeab72ac93.avif  # Bilddatei verwendet auf der Seite
-└── README.md                 # Diese Datei, Projektbeschreibung
+onepager/                     # Root-Verzeichnis des Projekts  
+index.html                     # Haupt-HTML-Datei der Website  
+styles.css                     # CSS-Datei für das Styling  
+bild/                          # Ordner für Bilder  
+bild/5294e6d0-53ed-4a4a-a350-7eaeab72ac93.avif  # Bilddatei verwendet auf der Seite  
+README.md                      # Diese Datei, Projektbeschreibung  
+
