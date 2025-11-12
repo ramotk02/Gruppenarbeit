@@ -1,4 +1,3 @@
-// Sélectionne tous les éléments à animer
 const animateElements = document.querySelectorAll('.animate-on-scroll');
 
 const observerOptions = {
