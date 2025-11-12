@@ -1,11 +1,11 @@
 
-# 🌐 Onepager Website
+#  Onepager Website
 
 Eine moderne **One-Page-Website**, erstellt mit **HTML** und **CSS**, die Text und Bilder in einem flüssigen und ansprechenden Design präsentiert.
 
 ---
 
-## 📋 Beschreibung
+##  Beschreibung
 
 Dieses Projekt ist eine Einseiten-Website (Onepager) mit mehreren Abschnitten:  
 
@@ -21,7 +21,7 @@ Das Design verwendet **Verläufe**, **weiche Schatten** und eine **Farbpalette v
 
 ---
 
-## 🧑‍🤝‍🧑 Gruppenmitglieder
+##  Gruppenmitglieder
 
 Dieses Projekt wurde von einem Team von **vier Personen** erstellt:  
 
@@ -32,5 +32,5 @@ Dieses Projekt wurde von einem Team von **vier Personen** erstellt:
 
 ---
 
-## 🧱 Projektstruktur
+##  Projektstruktur
 
