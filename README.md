@@ -1,5 +1,5 @@
 
-# 🌐 Onepager Website
+#  Onepager Website
 
 Eine moderne **One-Page-Website**, erstellt mit **HTML** und **CSS**, die Text und Bilder in einem flüssigen und ansprechenden Design präsentiert.
 
