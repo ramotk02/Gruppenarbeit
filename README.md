@@ -48,6 +48,8 @@ onepager/                     # Root-Verzeichnis des Projekts
   
   bild/                          # Ordner für Bilder   
         bild/5294e6d0-53ed-4a4a-a350-7eaeab72ac93.avif  # Bilddatei verwendet auf der Seite  
+
+  script.js                       # JavaScript der Website
         
   README.md                      # Diese Datei, Projektbeschreibung  
 
